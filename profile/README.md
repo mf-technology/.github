@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://arraytech.co/wp-content/themes/arraytech/assets/img/array-logo-big.png" alt="drawing" width="350"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://arraytech.co/wp-content/themes/arraytech/assets/img/array-logo-big.png">
+  <img alt="ArrayTech - Logo" src="https://arraytech.co/wp-content/themes/arraytech/assets/img/array-logo.png" width="350">
+  </picture>
 </div>
 <h2>Who are we?</h2>
   <p>From the first solution we made, it has been our most important mission to get customers with a smile during and after the delivery of work. Array Tech creates solutions to all requests of its customers as soon as possible. It aims to create successful and quality solutions with the same value and importance for all of its works.</p>
