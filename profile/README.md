@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://arraytech.co/wp-content/themes/arraytech/assets/img/array-logo-big.png">
-  <img alt="ArrayTech - Logo" src="https://arraytech.co/wp-content/themes/arraytech/assets/img/array-logo.png" width="350">
+  <source media="(prefers-color-scheme: dark)" srcset="https://qr.feritaribulan.com.tr/mf-tech.png">
+  <img alt="ArrayTech - Logo" src="https://qr.feritaribulan.com.tr/mf-tech.png" width="350">
   </picture>
 </div>
 <h2>Who are we?</h2>
@@ -15,14 +15,4 @@
   <li>Social Media Management</li>
   <li>E-Commerce</li>
   <li>Graphic Design</li>
-</ul>
-
-<h2>Contact Us</h2>
-<ul>
-  <li><b>Office:</b> Gülbahar Mahallesi, Uysal Sokak No:1/8 K:2, Ali Meriç İş Merkezi, Şişli/İstanbul 34598</li>
-  <li><b>E-Mail:</b> <a href="mailto:info@arraytech.co">info@arraytech.co</a></li>
-  <li><a href="https://tr.linkedin.com/company/array-tech">LinkedIn</a></li>
-  <li><a href="https://twitter.com/arraytechco">Twitter</a></li>
-  <li><a href="https://www.facebook.com/arraytechco/">Facebook</a></li>
-  <li><a href="https://www.instagram.com/arraytechco/">Instagram</a></li>
 </ul>
